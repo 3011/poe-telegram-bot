@@ -22,7 +22,9 @@ Log into [Poe](https://poe.com) on any web browser, then open your browser's dev
 - `/dragonfly` - Dragonfly
 - `/chatgpt` - ChatGPT
 - `/claude_instant` - Claude-instant
+- `/google_palm` - Google-PaLM
 - `/set_token` - Set token
+- `/rollback` - Rollback a message
 - `/clear_context` - Clear conversation context
 
 # poe-telegram-bot
@@ -49,5 +51,7 @@ Log into [Poe](https://poe.com) on any web browser, then open your browser's dev
 - `/dragonfly` - Dragonfly
 - `/chatgpt` - ChatGPT
 - `/claude_instant` - Claude-instant
+- `/google_palm` - Google-PaLM
 - `/set_token` - 设置 Token
+- `/rollback` - 回退一条消息
 - `/clear_context` - 清除对话上下文
