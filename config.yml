@@ -1,0 +1,3 @@
+bot_token: "" # 机器人的token
+allowed_users: []  # 用户ID列表，建议个人使用
+message_update_time: 1.5  # seconds 消息更新间隔

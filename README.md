@@ -2,7 +2,7 @@
 Use Poe on Telegram.
 
 ## Instructions
-1. Set `bot_token` and `allowed_users` in `main.py`.
+1. Set `bot_token` and `allowed_users` in `config.yml`.
 2. Installation depends on `pip install --upgrade python-telegram-bot poe-api`
 3. Run `python main.py`
 4. Send `/set_token <token>` to the bot
@@ -31,7 +31,7 @@ Log into [Poe](https://poe.com) on any web browser, then open your browser's dev
 在 Telegram 上使用 Poe。
 
 ## 使用方法
-1. 设置`main.py`中的`bot_token`与`allowed_users`。
+1. 设置`config.yml`中的`bot_token`与`allowed_users`。
 2. 安装依赖`pip install --upgrade python-telegram-bot poe-api`
 3. 运行`python main.py`
 4. 向 bot 发送`/set_access_token <token>`
